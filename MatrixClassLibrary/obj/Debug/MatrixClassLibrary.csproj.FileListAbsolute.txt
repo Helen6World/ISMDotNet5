@@ -1,0 +1,60 @@
+E:\PROGRAMMING\02.11\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\1\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\1\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\1\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\1\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\1\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\2\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\2\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\2\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\2\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\2\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\2 — копия\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\2 — копия\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\2 — копия\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\2 — копия\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\2 — копия\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\3\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\3\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\3\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\3\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\3\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\6\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\6\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\6\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\6\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\6\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\7\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\7\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\7\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\7\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\7\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\8\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\8\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\8\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\8\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\8\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\16\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\16\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\16\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\16\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\16\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\166\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\166\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\166\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\166\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\166\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\166_15\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\166_15\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\166_15\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\166_15\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\166_15\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\DONE!\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\DONE!\ISMDotNet5\MatrixClassLibrary\bin\Debug\MatrixClassLibrary.pdb
+E:\PROGRAMMING\02.11\DONE!\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.csprojAssemblyReference.cache
+E:\PROGRAMMING\02.11\DONE!\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.dll
+E:\PROGRAMMING\02.11\DONE!\ISMDotNet5\MatrixClassLibrary\obj\Debug\MatrixClassLibrary.pdb
